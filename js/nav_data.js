@@ -1,0 +1,1 @@
+var lean_nav_data=["01_Overview.html","02_Lean_as_a_Specification_Language.html","03_Lean_as_a_Programming_Language.html","04_Interactive_Theorem_Proving_in_Lean.html","05_Automation_in_Lean.html","06_Metaprogramming_in_Lean.html"];
